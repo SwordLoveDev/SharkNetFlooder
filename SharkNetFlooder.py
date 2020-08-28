@@ -544,7 +544,7 @@ except KeyboardInterrupt:
 	print ("\nCTRL-C Pressed")
 	exit()
 try:
-	passwords = ["root", "azerty79"]
+	passwords = ["root", "azerty1337"]
 	password = getpass.getpass ("\033[96mPassword \033[96m:\033[91m ")
 	if user == "Root":
 		if password == passwords[0]:
