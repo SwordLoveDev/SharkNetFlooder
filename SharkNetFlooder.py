@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
-# Code by Nxstro Stress
+# Code by Sword
 # It's simple python script flooder with same interface as SharkNet Botnet (SharkNet Botnet by me = https://www.youtube.com/watch?v=AbP6vGFkEP4&t=69s)
 
 #+---------------------------------------------------------------------+
@@ -26,7 +26,7 @@ commentattack = """\033[91m 🦈\033[96m Command sent !"""
 
 sys.stdout.write(top)
 def modifications():
-	print ("\033[96mContact \033[91mNxstro Stress \033[96mthe script is currently under maitnance")
+	print ("\033[96mContact \033[91mSword \033[96mthe script is currently under maitnance")
 	on_enter = input("Please press enter to leave")
 	exit()
 
@@ -121,7 +121,7 @@ banner = """\033[1;00m\033[91m
 \033[91m               \__ \ ' \/ _` | '_| / / .` / -_)  _|				
 \033[91m               |___/_||_\__,_|_| |_\_\_|\_\___|\__|                 
 					
-\033[96m        Successfully Loggin to \033[91mSharkNet 🦈\033[96m by Nxstro Stress
+\033[96m        Successfully Loggin to \033[91mSharkNet 🦈\033[96m by Sword
 \033[96m        Simple script flooder with same interface as SharkNet Botnet
 \033[96m        Connected As : \033[91mRoot
 \033[96m        Type \033[91m? \033[96mfor methods\033[96m	
@@ -134,7 +134,7 @@ altbanner = """\033[1;00m\033[91m
 \033[91m               \__ \ ' \/ _` | '_| / / .` / -_)  _|				
 \033[91m               |___/_||_\__,_|_| |_\_\_|\_\___|\__|                 
 					
-\033[96m        Successfully Loggin to \033[91mSharkNet 🦈\033[96m by Nxstro Stress
+\033[96m        Successfully Loggin to \033[91mSharkNet 🦈\033[96m by Sword
 \033[96m        Simple script flooder with same interface as SharkNet Botnet
 \033[96m        Connected As : \033[91mRoot
 \033[96m        Type \033[91m? \033[96mfor methods\033[96m	
@@ -152,7 +152,7 @@ start = """\033[1;00m\033[96m
    \_/\_/ |___|____\___\___/|_|  |_|___|                        
                  |_   _/ _ \                                   
                    | || (_) | 
-	        \033[96mFlooder By \033[91mNxstro Stress\033[96m                                   
+	        \033[96mFlooder By \033[91mSword\033[96m                                   
                    |_| \___/_  _   _   ___ _  ___  _ ___ _____  
                        / __| || | /_\ | _ \ |/ / \| | __|_   _| 
                        \__ \ __ |/ _ \|   / ' <| .` | _|  | |   
